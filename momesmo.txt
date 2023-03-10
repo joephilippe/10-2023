@@ -5,3 +5,4 @@ tu vas bien?
 
 i just change the name of my branch  master --->main
  comportment set 
+ -m flag =====> move  flag or option
